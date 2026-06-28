@@ -1,0 +1,7 @@
+{
+  "kafka_topic":"transactions",
+  "checkpoint_location":"/chk/dev",
+  "bronze_path":"/delta/dev/bronze",
+  "silver_path":"/delta/silver",
+  "gold_path":"/delta/gold"
+}
